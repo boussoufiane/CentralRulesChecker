@@ -1,0 +1,6 @@
+rule.firstname.length=2
+rule.lastName.length=2
+rule.price.quotation_rate=20
+rule.mail.alpha_rate=70
+rule.mail.number_rate=30
+

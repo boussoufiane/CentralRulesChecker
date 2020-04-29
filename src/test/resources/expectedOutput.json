@@ -1,0 +1,3 @@
+[
+ {"reference":"B300053623","scam":true,"rules":["rule::price::quotation_rate","rule::registernumber::blacklist"]}
+]
